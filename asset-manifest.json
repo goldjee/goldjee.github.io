@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/goldjee.github.io/static/js/main.a728aed7.js",
+    "static/js/787.eb66c680.chunk.js": "/goldjee.github.io/static/js/787.eb66c680.chunk.js",
+    "static/media/PSMI.pdf": "/goldjee.github.io/static/media/PSMI.e28c267920f23a2091ed.pdf",
+    "static/media/background.jpg": "/goldjee.github.io/static/media/background.4005219d3a3b2e78da31.jpg",
+    "static/media/Daniel.jpg": "/goldjee.github.io/static/media/Daniel.2f7595a4a324450439e5.jpg",
+    "index.html": "/goldjee.github.io/index.html",
+    "main.a728aed7.js.map": "/goldjee.github.io/static/js/main.a728aed7.js.map",
+    "787.eb66c680.chunk.js.map": "/goldjee.github.io/static/js/787.eb66c680.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a728aed7.js"
+  ]
+}
