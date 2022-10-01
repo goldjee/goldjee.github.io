@@ -29,7 +29,7 @@ const Summary: FC = () => {
             <Text>
                 I believe that people, relations and human values are the key to
                 successful business. Guided by this understanding, I{' '}
-                <em>lead my team</em> and together we bring up successful
+                <em>lead my team</em> and together we bring up outstanding
                 products to life.
             </Text>
         </Bubble>,
