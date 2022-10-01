@@ -27,7 +27,7 @@ const Summary: FC = () => {
         </Bubble>,
         <Bubble key="soft">
             <Text>
-                I beleive that people, relations and human values are the key to
+                I believe that people, relations and human values are the key to
                 successful business. Guided by this understanding, I{' '}
                 <em>lead my team</em> and together we bring up successful
                 products to life.
